@@ -63,13 +63,3 @@ pip install numpy pandas matplotlib scikit-learn
 
 ---
 
-## Autore
-
-- **Alessandro Ungarelli**
-
----
-
-## Licenza
-
-MIT License © 2025 Alessandro Ungarelli
-
